@@ -1,0 +1,24 @@
+name: circ_iri
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - scanpy
+  - scvi-tools
+  - pytorch
+  - ipykernel
+  - rpy2
+  - r-soupx
+  - python-igraph
+  - r-seurat
+  - bioconductor-scater
+  - bioconductor-scdblfinder
+  - bioconductor-singlecellexperiment
+  - bioconductor-biocparallel
+  - bioconductor-scry
+  - harmonypy
+  - openblas
+  - anndata2ri
+  - bioconductor-zellkonverter
+  - liana
+prefix: /home/aumlauf/miniforge3/envs/circ_iri
